@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevicesService", "DevicesService\DevicesService.csproj", "{F363CE8F-00AE-491B-8FD5-3275CE6CE38F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevicesService", "DevicesService\DevicesService.csproj", "{F363CE8F-00AE-491B-8FD5-3275CE6CE38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopAPP", "DesktopAPP\DesktopAPP.csproj", "{F384FC96-9CB6-4B23-9701-41C2A872E8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPP", "WebAPP\WebAPP.csproj", "{24C6F67E-1CBE-4CD9-8AFC-A10C4CB35EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F363CE8F-00AE-491B-8FD5-3275CE6CE38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F363CE8F-00AE-491B-8FD5-3275CE6CE38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F363CE8F-00AE-491B-8FD5-3275CE6CE38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F384FC96-9CB6-4B23-9701-41C2A872E8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F384FC96-9CB6-4B23-9701-41C2A872E8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F384FC96-9CB6-4B23-9701-41C2A872E8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F384FC96-9CB6-4B23-9701-41C2A872E8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C6F67E-1CBE-4CD9-8AFC-A10C4CB35EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C6F67E-1CBE-4CD9-8AFC-A10C4CB35EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C6F67E-1CBE-4CD9-8AFC-A10C4CB35EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C6F67E-1CBE-4CD9-8AFC-A10C4CB35EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
