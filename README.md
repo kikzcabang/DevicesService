@@ -1,4 +1,4 @@
-# DevicesServiceSLN
+# DevicesService
 Description: SignalR project that acts as intermediary between your webapp and desktop app.
 
 If you are trying to implement a web application that can interface with your desktop application like for example: passport scanners, fingerprint scanners, signature sacnners and more that don't support web interfacing natively. You can use this DevicesService, this is a SignalR project that acts as intermediate between your web app and desktop app.
